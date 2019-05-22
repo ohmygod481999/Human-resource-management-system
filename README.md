@@ -1,2 +1,7 @@
 # Human-resource-management-system
-php
+
+## Entity relationship diagram
+![ER](ER_diagram.png)
+
+## Table relationship diagram
+![TR](table_diagram.png)
